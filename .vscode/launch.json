@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TechtestApplication<techtest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.alten.sdc.techtest.TechtestApplication",
+            "projectName": "techtest",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

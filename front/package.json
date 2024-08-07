@@ -55,5 +55,12 @@
     "protractor": "7.0.0",
     "ts-node": "7.0.0",
     "tslint": "6.1.0"
-  }
+  },
+  "description": "Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "author": "",
+  "license": "ISC"
 }
